@@ -3,7 +3,7 @@
 <img  width='500px' height='160px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/?username=Sule26&show_icons=true&theme=gruvbox&hide_border=true"/>
 </div>
 
-<h2>knowlegment / Studying</h2>
+<h2>Knowledge / Studying</h2>
 <p>
     <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"></img>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
