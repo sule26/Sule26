@@ -23,7 +23,7 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 <!-- Tech -->
 <div style="border: 1px">
-<img align="right" width="45%" height="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=rrgc4ddpig11qybaohufgsvam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
+<img align="right" style="display:flex;align-items:center;" width="45%" height="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=rrgc4ddpig11qybaohufgsvam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
 <h2>📖 knowlegment / Studying</h2>
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
