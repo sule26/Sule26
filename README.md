@@ -4,8 +4,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">             
 <!-- About me -->
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px margin-bottom=2px>
-<h2 align="left" font-weight="bold">About me</h2> 
+<img align="left" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px margin-bottom=2px margin-right=5px>
+<h1 class="margin" align="left" font-weight="bold">About me</h1> 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -22,9 +22,11 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"> 
 <!-- Tech -->
-<div style="border: 1px">
-<img align="right" style="display:flex;align-items:center;" width="45%" height="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=rrgc4ddpig11qybaohufgsvam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
-<h2>📖 knowlegment / Studying</h2>
+<h1>🚀 Skills and Infos</h1>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  <h3>📖 knowlegment / Studying</h3>
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></img>
@@ -36,21 +38,21 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></img>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></img>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo"css3&logoColor=white"></img>
 </p>
 
-<h2>💻 Operational System</h2>
+<h3>💻 Operational System</h3>
 <p>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></img>
 </p>
 
-<h2>🖥 IDE</h2>
+<h3>🖥 IDE</h3>
 <p>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 </p>
 
-<h2>📞 Contact</h2>
+<h3>📞 Contact</h3>
 <p>
     <a href="https://www.linkedin.com/in/jpalcantara30/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
@@ -63,7 +65,7 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
     </a>
 </p>
 
-<h2>🎊 Entertainment</h2>
+<h3>🎊 Entertainment</h3>
 <p>
     <a href="https://open.spotify.com/user/rrgc4ddpig11qybaohufgsvam?si=d0cb6709b37343a7" alt="Spotify">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></img>
@@ -78,13 +80,24 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
         <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></img>
     </a>
 </p>
-</div>
+
+  <br></br>
+  
+</td>
+
+<td width="50%" align="center">
+<img align="right" width="100%" height="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=rrgc4ddpig11qybaohufgsvam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
+
+  
+</td>
+</tr>
+</table>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">             
 <!-- Stats -->
 <img align="left" src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">
-<h2 align="left">About Some Stats</h2>
+<h1 align="left">About Some Stats</h1>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
