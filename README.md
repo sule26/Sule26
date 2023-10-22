@@ -106,7 +106,7 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
   
   <img  align="center" src="https://github-readme-stats-sule26s-projects.vercel.app/api?username=Sule26&theme=gruvbox&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sule26&theme=gruvbox&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats-sule26s-projects.vercel.app/?user=Sule26&theme=gruvbox&hide_border=false"/> 
 </td>
 
 <td width="50%" align="center">
@@ -117,7 +117,7 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
 </tr>
 </table>
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sule26&layout=compact&theme=gruvbox&column=7&row=1&margin-w=15&margin-h=15" alt="github-profile-trophy" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sule26s-projects.vercel.app//?username=Sule26&layout=compact&theme=gruvbox&column=7&row=1&margin-w=15&margin-h=15" alt="github-profile-trophy" /></a> 
 </p>
 
 
