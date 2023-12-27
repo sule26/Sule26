@@ -12,7 +12,7 @@
 <p>
 🎮 JRPG Enthusiast | 💻 Aspiring Developer | 🚀 Intern at Incentive.me | 🎓 Computer Science Student at UERJ | 🎉 22 Years Young | 🕹️ Favorites: Persona 5, Dark Souls, Tales of Series
 
-Hello there! 👋 I'm João Alcantara, a 22-year-old currently interning at Incentive.me, where I'm immersing myself in the world of professional experience and learning valuable skills. 🎯
+Hello there! 👋 I'm João Alcantara, a 23-year-old currently interning at Incentive.me, where I'm immersing myself in the world of professional experience and learning valuable skills. 🎯
 
 When I'm not in the professional realm, you'll often find me deeply engrossed in the world of JRPGs. I have a profound love for game franchises like Dark Souls, Persona, and the captivating Tales of Series. And when it comes to anime, Gintama is my all-time favorite. 🎌
 
