@@ -10,7 +10,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p>
-🎮 JRPG Enthusiast | 💻 Aspiring Developer | 🚀 Intern at Incentive.me | 🎓 Computer Science Student at UERJ | 🎉 22 Years Young | 🕹️ Favorites: Persona 5, Dark Souls, Tales of Series
+🎮 JRPG Enthusiast | 💻 Aspiring Developer | 🚀 Intern at Incentive.me | 🎓 Computer Science Student at UERJ | 🎉 23 Years Young | 🕹️ Favorites: Persona 5, Dark Souls, Tales of Series
 
 Hello there! 👋 I'm João Alcantara, a 23-year-old currently interning at Incentive.me, where I'm immersing myself in the world of professional experience and learning valuable skills. 🎯
 
