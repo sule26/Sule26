@@ -111,7 +111,7 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sule26&theme=gruvbox&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sule26&theme=gruvbox&layout=compact"/>
   
   </td>
 </tr>
@@ -122,9 +122,8 @@ Let's connect and explore the realms of code and gaming together. 🌐🎮
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">             
 <!-- footer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">             
 <br>
